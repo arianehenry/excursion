@@ -15,8 +15,11 @@ p{
   color: gray;
   font-size: 21px;
 }
-a{
+p.link{
   color: aquamarine;
-  font-size: 16px
+  font size: 16px;
   text-decoration: underline;
+}
+.Copyright{
+  text-align: right;
 }
